@@ -1,0 +1,45 @@
+h2{
+text-align: center !important;
+}
+.navbar-brand{
+	color: white !important;
+}
+
+
+#form2{
+	width: 50% !important;
+    margin: auto;
+    padding: 3%;
+    background-color: #FFFFFF!important;
+    box-shadow: 2px 2px 5px  gray;
+    text-align: center;
+  
+}
+.hero-image {
+  background-image: url("https://www.etiaseurope.eu/assets/images/embassy-map/albanian-permanent-mission-in-vienna-austria_permanent-mission-of-the-republic-of-albania-to-the-international-organizations-vienna.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 2% ;
+  
+}
+
+#input2{
+	width: 60% !important;
+	margin: auto;
+	margin-bottom: 4%; 
+
+}
+footer{
+	background-color: #222222;
+	text-align: center;
+	color: white;
+	padding: 3%;
+}
+#filter{
+	text-align: center;
+	margin: auto;
+	margin-bottom: 1%;
+}
+
